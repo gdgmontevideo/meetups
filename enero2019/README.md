@@ -18,7 +18,7 @@ Speaker: [Martin Varela](https://www.linkedin.com/in/mart%C3%ADn-varela-27479671
 
 # Links:
 
-* [Presentacion Flutter101](https://github.com/gdgmontevideo/meetups/blob/master/enero2019/Tintina%20Flutter%20GDG.pdf)
+* [Presentacion Flutter101](https://github.com/gdgmontevideo/meetups/blob/master/enero2019/Flutter101-GDGMVD.pdf)
 * [Presentación Tintina](https://github.com/gdgmontevideo/meetups/blob/master/enero2019/Tintina%20Flutter%20GDG.pdf)
 * [Tintina App](https://tintina.co/)
 * [Por donde empezar en Flutter](https://medium.com/@tinoper/por-d%C3%B3nde-empezamos-en-flutter-d23616eac585)
