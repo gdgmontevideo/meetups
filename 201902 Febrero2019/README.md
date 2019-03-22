@@ -8,4 +8,7 @@ Speaker: [Joaquín Moreno](https://www.linkedin.com/in/joaquin-moreno-antu%C3%B1
 * [Streaming](https://youtu.be/rkAyJdCwT_Y)
 * [Google Data Studio](https://datastudio.google.com/)
 * [Meetup.com](https://www.meetup.com/es-ES/GDGMontevideo/events/258898644/)
+* [Report Like a Boss Using Google Data Studio](https://youtu.be/C1w-yuTDUeM)
+* [A 10-minute crash course on Google Data Studio](https://data36.com/10-minute-crash-course-google-data-studio/)
+* [Google Data Studio Course](https://www.lovesdata.com/courses/google-data-studio)
 
