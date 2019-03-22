@@ -1,4 +1,4 @@
-![alt text](https://github.com/gdgmontevideo/meetups/blob/master/enero2019/GDGMeetup201901.jpg "Meetup Enero2019")
+![alt text](https://github.com/gdgmontevideo/meetups/blob/master/201901%20Enero2019/GDGMeetup201901.jpg "Meetup Enero2019")
 
 # Flutter101
 
