@@ -8,7 +8,7 @@ We, Developers, always talk about how 'code reuse' is an important subject. Unfo
 Speaker: [Tomek Polański](https://www.linkedin.com/in/tomaszpolanski/)
 
 * [Presentation](https://github.com/tomaszpolanski/flutter-presentations)
-* [Video]()
+* [Video](https://youtu.be/F7EDxh21LHM)
 
 # Flare
 Can it really brighten your animations?
@@ -20,4 +20,4 @@ Speaker: [Paveł Polański](https://github.com/jaggernod)
 
 * [Starting point for a Flutter application](https://github.com/jaggernod/flare-presentation)
 * [Flare](https://www.2dimensions.com/about-flare)
-* [Video]()
+* [Video](https://youtu.be/cHembMxUXFY)
